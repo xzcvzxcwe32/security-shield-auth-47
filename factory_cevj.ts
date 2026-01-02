@@ -1,0 +1,1 @@
+const service_cevj = <T>(args: T): T => { return args; };
